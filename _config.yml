@@ -1,0 +1,17 @@
+title: permanentnydebet blog
+email: kuba.roezner@gmail.com
+description: >
+  Blog osobisty poświęcony programowaniu embedded i nie tylko.
+baseurl: ""
+url: "permanentnydebet.github.io"
+github_username:  permanentnydebet
+
+# Build settings
+theme: just-the-docs
+
+plugins:
+  - jekyll-feed
+  - jekyll-minifier
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
