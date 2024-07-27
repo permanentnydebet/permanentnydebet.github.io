@@ -7,7 +7,7 @@ url: "permanentnydebet.github.io"
 github_username:  permanentnydebet
 
 # Build settings
-theme: just-the-docs
+rmeote_theme: just-the-docs
 
 plugins:
   - jekyll-feed
